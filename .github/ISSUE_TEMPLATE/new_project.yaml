@@ -10,7 +10,7 @@ body:
       value: |
         Thanks for taking the time to fill out this bug report!
   - type: input
-    id: Project name
+    id: project_name
     attributes:
       label: Project name
       description: Project name
@@ -18,7 +18,7 @@ body:
     validations:
       required: false
   - type: dropdown
-    id: version
+    id: template
     attributes:
       label: Template
       description: What the project template
