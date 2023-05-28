@@ -1,6 +1,6 @@
 name: New Project
 description: Creates a new project
-title: "[Bug]: "
+title: "New Project"
 labels: ["New Project"]
 assignees:
   - aldoclg
